@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Data Science and Machine
 - 💞️ I’m looking to collaborate on Data Sciene
 - 📫 How to reach me www.linkedin.com/in/uzeyirktk
+- Visit my website: https://uzeyirktk-0c65bf.webflow.io/
 
